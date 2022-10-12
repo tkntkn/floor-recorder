@@ -1,0 +1,7 @@
+{
+  "floorAddress": ["ws://127.0.0.1:8080/"],
+  "camera": [{ "name": "Iriun Webcam", "number": 0 }],
+  "recordDirectory": "./dataout",
+  "recordName": "test",
+  "secondsPerFile": 600
+}
